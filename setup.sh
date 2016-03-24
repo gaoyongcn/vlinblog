@@ -13,7 +13,8 @@ wget -N https://raw.githubusercontent.com/gaoyongcn/vlinblog/master/avatar.png
 cd ../themes/yilia
 wget -N https://raw.githubusercontent.com/gaoyongcn/vlinblog/master/yilia/_config.yml
 hexo g
-hexo s --debug
+echo "已安装完毕"
+echo "请执行'hexo s --debug'进行本地调试，查看效果"
 
 
 
