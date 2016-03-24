@@ -13,7 +13,7 @@ wget -N https://raw.githubusercontent.com/gaoyongcn/vlinblog/master/avatar.png
 cd ../themes/yilia
 wget -N https://raw.githubusercontent.com/gaoyongcn/vlinblog/master/yilia/_config.yml
 hexo g
-hexo d --debug
+hexo s --debug
 
 
 
