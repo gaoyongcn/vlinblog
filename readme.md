@@ -1,3 +1,5 @@
 1. 切换至需要生成blog目录的文件夹
 2. 打开终端，执行下面的命令就自动安装好了：
-> wget -qO- https://raw.githubusercontent.com/gaoyongcn/vlinblog/master/setup.sh | sh -x
+```
+wget -qO- https://raw.githubusercontent.com/gaoyongcn/vlinblog/master/setup.sh | sh -x
+```
