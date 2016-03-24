@@ -1,0 +1,1 @@
+wget -qO- https://raw.githubusercontent.com/gaoyongcn/vlinblog/master/setup.sh | sh -x
