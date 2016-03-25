@@ -7,8 +7,8 @@ sudo npm install hexo-server --saves
 sudo npm install hexo-deployer-git --save
 echo "请耐心等待"
 git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia
-hexo g
 wget -N https://raw.githubusercontent.com/gaoyongcn/vlinblog/master/_config.yml
+hexo g
 cd public
 wget -N https://raw.githubusercontent.com/gaoyongcn/vlinblog/master/avatar.png
 cd ../themes/yilia
